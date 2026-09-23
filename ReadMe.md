@@ -1,5 +1,7 @@
 # Süleyman Demirel Üniversitesi Kampüs Etkinlikleri
 
+**🚀 Canlı Demo:** [Siteyi Ziyaret Etmek İçin Tıklayın](https://kampus-etkinlik-chi.vercel.app/)
+
 Bu proje, kampüs içerisindeki etkinlikleri (kariyer günleri, atölyeler, seminerler) listelemek ve yönetmek için hazırlanmış temel bir HTML çalışmasıdır.
 
 ## Sayfalar ve İşlevleri
